@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1676795389
-ModificationTime: 1693683777
+ModificationTime: 1693717379
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -47,8 +47,8 @@ Lookup: 6 0 0 "OneQuote" { "OneQuote subtable"  } ['liga' ('grek' <'dflt' > 'lat
 Lookup: 1 0 0 "Single Substitution lookup 1" { "Single Substitution lookup 1 subtable"  } []
 Lookup: 4 0 1 "ExtraMoveDiacritic" { "ExtraMoveDiacritic subtable"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 1 "FlipCores" { "FlipCores subtable"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 4 0 1 "VowelLigature" { "VowelLigature subtable"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 1 "TertiaryLigature" { "TertiaryLigature subtable"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 1 "VowelLigature" { "VowelLigature subtable"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 1 "RegisterLigature" { "RegisterLigature subtable"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 6 0 0 "VowelAnchor" { "VowelAnchor contextual 0"  "VowelAnchor contextual 1"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 8" { "Single Substitution lookup 8 subtable"  } []
@@ -264,7 +264,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 12 5
+WinInfo: 0 15 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -1671,8 +1671,8 @@ SplineSet
  23.849609375 70 l 1
  76.150390625 70 l 1
 EndSplineSet
-LCarets2: 1 0
 Ligature2: "FlipCores subtable" Z quotesingle
+LCarets2: 1 0
 EndChar
 
 StartChar: bar
@@ -1985,7 +1985,7 @@ EndChar
 StartChar: six
 Encoding: 11 54 64
 Width: 80
-Flags: HWO
+Flags: HW
 HStem: 5.54297 21G<20 29.2109> 28.8174 20G<39.248 63.5073> 43.4941 21G<43.1152 44.6738> 58 20G<53.0146 62.2256>
 VStem: 53.0146 9.21094<62.7688 68.7891>
 AnchorPoint: "Diacritic_down" 40 -15 basechar 0
@@ -3623,9 +3623,16 @@ EndChar
 
 StartChar: semicolon
 Encoding: 16 59 138
-Width: 0
-GlyphClass: 4
+Width: 80
 Flags: HW
+AnchorPoint: "Tertiary_down" 40 35 basechar 0
+AnchorPoint: "Tertiary_up" 40 35 basechar 0
+AnchorPoint: "Extension_up" 40 35 basechar 0
+AnchorPoint: "Extension_down" 40 35 basechar 0
+AnchorPoint: "Diacritic_up" 40 35 basechar 0
+AnchorPoint: "Diacritic_down" 40 35 basechar 0
+AnchorPoint: "Diacritic_right" 40 35 basechar 0
+AnchorPoint: "Diacritic_left" 40 35 basechar 0
 LayerCount: 2
 EndChar
 
@@ -3854,7 +3861,7 @@ SplineSet
  60 30 l 1
 EndSplineSet
 Ligature2: "TertiaryLigature subtable" equivalence a v
-LCarets2: 1 0
+LCarets2: 2 0 0
 EndChar
 
 StartChar: ithk_valence.CPL
@@ -4185,6 +4192,7 @@ SplineSet
  45 55 l 1
  35 45 l 1
 EndSplineSet
+LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert p idieresis a
 EndChar
 
@@ -4221,6 +4229,7 @@ SplineSet
  22.5 72.5 l 1
  30 80 l 1
 EndSplineSet
+LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a i m
 EndChar
 
@@ -4228,17 +4237,19 @@ StartChar: ithk_effect.twoben
 Encoding: 177 -1 172
 Width: 80
 Flags: HW
+AnchorPoint: "Tertiary_mkmk" 40 60 mark 0
 LayerCount: 2
 Fore
 SplineSet
-25 65 m 1
- 40 80 l 1
- 61.599609375 52.5 l 1
- 54.150390625 45 l 1
- 33.5498046875 71.150390625 l 1
- 26.2001953125 63.7998046875 l 1
- 25 65 l 1
+15 65 m 5
+ 30 80 l 5
+ 51.599609375 52.5 l 5
+ 44.150390625 45 l 5
+ 23.5498046875 71.150390625 l 5
+ 16.2001953125 63.7998046875 l 5
+ 15 65 l 5
 EndSplineSet
+LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert s i a
 EndChar
 
@@ -4277,6 +4288,7 @@ SplineSet
  29.4501953125 80 l 1
  50 53.849609375 l 1
 EndSplineSet
+LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a i s
 EndChar
 
@@ -4339,6 +4351,7 @@ SplineSet
  22.5 72.5 l 1
  30 80 l 1
 EndSplineSet
+LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a i z
 EndChar
 
@@ -4359,6 +4372,7 @@ SplineSet
  30.75 78.7998046875 l 2
  30.8447265625 78.5703125 30.9287109375 78.353515625 31 78.150390625 c 2
 EndSplineSet
+LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert z i a
 EndChar
 
@@ -4558,6 +4572,7 @@ SplineSet
  27.9501953125 65 l 1
  28 65 l 1
 EndSplineSet
+LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert approxequal adieresis a
 EndChar
 
