@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1676795389
-ModificationTime: 1693805779
+ModificationTime: 1693865932
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1555,8 +1555,8 @@ SplineSet
  140 240 l 1
  180 280 l 1
 EndSplineSet
-LCarets2: 1 0
 Ligature2: "FlipCores subtable" bar quotesingle
+LCarets2: 1 0
 EndChar
 
 StartChar: braceleft
@@ -3664,8 +3664,8 @@ SplineSet
  180 344 l 1
  180 224 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a idieresis a
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: glottal
@@ -3743,8 +3743,8 @@ SplineSet
  40 120 l 1
  80 160 l 1
 EndSplineSet
-LCarets2: 2 0 0
 Ligature2: "TertiaryLigature subtable" equivalence a a
+LCarets2: 2 0 0
 EndChar
 
 StartChar: ithk_valence.CNG
@@ -3982,8 +3982,8 @@ SplineSet
  180 280 l 1
  180 230 l 2
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert p idieresis s
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_phase.FRG
@@ -4004,8 +4004,8 @@ SplineSet
  110 270 l 1
  180 340 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert s idieresis p
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_phase.ITM
@@ -4026,8 +4026,8 @@ SplineSet
  117 265 l 1
  112 270 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert s idieresis s
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_phase.ITR
@@ -4046,8 +4046,8 @@ SplineSet
  117 265 l 1
  112 270 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert s idieresis a
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_phase.RCT
@@ -4066,8 +4066,8 @@ SplineSet
  140 192 l 1
  140 302 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a idieresis z
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_phase.REP
@@ -4086,8 +4086,8 @@ SplineSet
  203 255 l 1
  208 250 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a idieresis s
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_phase.VAC
@@ -4124,8 +4124,8 @@ SplineSet
  90 290 l 1
  120 320 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a i a
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_effect.onedet
@@ -4184,8 +4184,8 @@ SplineSet
  98 280 l 1
  40 280 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert m i a
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_effect.threeben
@@ -4226,8 +4226,8 @@ SplineSet
  93 285 l 1
  64 255 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert s i m
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_effect.slfben
@@ -4248,8 +4248,8 @@ SplineSet
  93 285 l 1
  64 255 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert s i s
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_effect.slfdet
@@ -4385,8 +4385,8 @@ SplineSet
  157 312 l 1
  122 304 104 287 104 260 c 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert f adieresis z
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.CCL
@@ -4407,8 +4407,8 @@ SplineSet
  264 260 l 1
  224 220 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert g adieresis a
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.CLM
@@ -4429,8 +4429,8 @@ SplineSet
  64 220 l 1
  104 260 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a adieresis g
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.CNT
@@ -4452,8 +4452,8 @@ SplineSet
  124 135 l 1
  149 168 129 196 64 220 c 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert ddotbelow adieresis s
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.CSS
@@ -4474,8 +4474,8 @@ SplineSet
  162 179 176 183 191 195 c 1
  196 190 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert tcedilla adieresis a
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.CUL
@@ -4519,8 +4519,8 @@ SplineSet
  264 260 l 1
  224 220 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert k adieresis a
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.DLT
@@ -4542,8 +4542,8 @@ SplineSet
  216 220 l 1
  216 220 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a adieresis approxequal
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.EPD
@@ -4563,8 +4563,8 @@ SplineSet
  64 220 l 1
  104 260 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a adieresis rcaron
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.EXP
@@ -4586,8 +4586,8 @@ SplineSet
  114 170 l 1
  64 220 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert i adieresis f
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.HAB
@@ -4607,8 +4607,8 @@ SplineSet
  152 282 157 312 199 350 c 1
  204 345 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a adieresis ddotbelow
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.ICS
@@ -4627,8 +4627,8 @@ SplineSet
  266 194 236 162 177 163 c 1
  172 168 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a adieresis f
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.IMD
@@ -4649,8 +4649,8 @@ SplineSet
  264 260 l 1
  224 220 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert scaron adieresis a
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.IMM
@@ -4673,8 +4673,8 @@ SplineSet
  166 301 152 297 137 285 c 1
  132 290 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert s adieresis tcedilla
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.IRP
@@ -4695,8 +4695,8 @@ SplineSet
  171 168 l 1
  206 176 224 193 224 220 c 1
 EndSplineSet
+Ligature2: "TertiaryLigature subtable" ellipses.vert z adieresis f
 LCarets2: 3 0 0 0
-Ligature2: "TertiaryLigature subtable" ellipses.vert z adieresis ddotbelow
 EndChar
 
 StartChar: ithk_aspect.ITC
@@ -4716,8 +4716,8 @@ SplineSet
  264 260 l 1
  224 220 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert rcaron adieresis a
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.LIM
@@ -4737,8 +4737,8 @@ SplineSet
  64 220 l 1
  104 260 l 2
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a adieresis t
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.MTV
@@ -4758,8 +4758,8 @@ SplineSet
  85 326 122 312 137 285 c 1
  112 260 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert x adieresis a
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.PAU
@@ -4779,8 +4779,8 @@ SplineSet
  176 198 171 168 129 130 c 1
  124 135 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert ddotbelow adieresis a
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.PCL
@@ -4803,8 +4803,8 @@ SplineSet
  162 179 176 183 191 195 c 1
  196 190 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert tcedilla adieresis s
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.PCS
@@ -4826,8 +4826,8 @@ SplineSet
  204 345 l 1
  179 312 199 284 264 260 c 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert s adieresis ddotbelow
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.PMP
@@ -4848,8 +4848,8 @@ SplineSet
  64 220 l 1
  104 260 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a adieresis k
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.PPR
@@ -4868,8 +4868,8 @@ SplineSet
  64 220 l 1
  104 260 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a adieresis equal
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.PRG
@@ -4891,8 +4891,8 @@ SplineSet
  154 310 l 1
  184 340 l 2
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert s adieresis i
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.PRS
@@ -4913,8 +4913,8 @@ SplineSet
  166 301 152 297 137 285 c 1
  132 290 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a adieresis tcedilla
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.PTC
@@ -4934,8 +4934,8 @@ SplineSet
  243 154 206 168 191 195 c 1
  216 220 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a adieresis x
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.REG
@@ -4954,8 +4954,8 @@ SplineSet
  62 286 92 318 151 317 c 1
  156 312 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert f adieresis a
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.RGR
@@ -4977,8 +4977,8 @@ SplineSet
  174 170 l 1
  144 140 l 2
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert i adieresis s
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.RSM
@@ -4998,8 +4998,8 @@ SplineSet
  126 220 l 1
  176 170 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert i adieresis a
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.RTR
@@ -5019,8 +5019,8 @@ SplineSet
  202 260 l 1
  152 310 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a adieresis i
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.SMM
@@ -5042,8 +5042,8 @@ SplineSet
  214 310 l 1
  264 260 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert f adieresis i
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.SQN
@@ -5062,8 +5062,8 @@ SplineSet
  264 260 l 1
  224 220 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert equal adieresis a
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.TMP
@@ -5084,8 +5084,8 @@ SplineSet
  64 220 l 1
  104 260 l 1
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert a adieresis scaron
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.TNS
@@ -5105,8 +5105,8 @@ SplineSet
  264 262 l 1
  224 222 l 2
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert t adieresis a
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.TRD
@@ -5127,8 +5127,8 @@ SplineSet
  -4 245 l 1
  24 273 l 2
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "TertiaryLigature subtable" ellipses.vert p adieresis a
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: ithk_aspect.XPD
@@ -10432,8 +10432,8 @@ SplineSet
  79 130 l 5
  49 160 l 5
 EndSplineSet
-LCarets2: 2 0 0
 Ligature2: "RegisterLigature subtable" periodcentered zero one
+LCarets2: 2 0 0
 EndChar
 
 StartChar: register.standard.EXM
@@ -10995,8 +10995,8 @@ SplineSet
  95 130 l 1
  125 160 l 1
 EndSplineSet
-LCarets2: 1 0
 Ligature2: "FlipCores subtable" colon quotesingle
+LCarets2: 1 0
 EndChar
 EndChars
 EndSplineFont
