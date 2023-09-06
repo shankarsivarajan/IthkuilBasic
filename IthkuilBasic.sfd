@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1676795389
-ModificationTime: 1693977140
+ModificationTime: 1693978808
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -265,7 +265,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 120 15 6
+WinInfo: 105 15 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -3245,19 +3245,17 @@ StartChar: six.thou
 Encoding: 65591 -1 111
 Width: 320
 Flags: HW
-AnchorPoint: "Diacritic_mkmk" 171 220 mark 0
+AnchorPoint: "Diacritic_mkmk" 166 160 mark 0
 LayerCount: 2
 Fore
 SplineSet
-110 220 m 1
- 140 259 l 1
- 260 259 l 1
- 230 220 l 1
- 110 220 l 1
-139 153 m 1
- 172 192 215 225 260 259 c 1
- 230 220 l 2
- 192 192 214 204 139 153 c 1
+196 140 m 1
+ 86 140 l 1
+ 126 180 l 1
+ 246 180 l 1
+ 166 100 l 1
+ 161 105 l 1
+ 196 140 l 1
 EndSplineSet
 EndChar
 
