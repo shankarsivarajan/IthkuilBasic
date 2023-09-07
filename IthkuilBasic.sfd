@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1676795389
-ModificationTime: 1693978808
+ModificationTime: 1694113573
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -265,7 +265,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 105 15 6
+WinInfo: 90 18 7
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -2827,7 +2827,7 @@ StartChar: ddotbelow.flip
 Encoding: 65583 -1 89
 Width: 320
 VWidth: -84
-Flags: W
+Flags: HW
 HStem: 0 40<80 240> 260 20G<139.645 173.068> 260 20G<139.645 173.068>
 VStem: 240 40<40 151>
 AnchorPoint: "Diacritic_left" 120 140 basechar 0
@@ -7256,7 +7256,7 @@ LayerCount: 2
 Fore
 SplineSet
 100 280 m 1
- 160 280 l 1
+ 160 280 l 5
  160 220 l 1
  120 180 l 1
  120 240 l 1
@@ -7743,14 +7743,14 @@ Fore
 SplineSet
 120 240 m 1
  80 240 l 1
- 101 250 107 264 100 280 c 1
+ 100.666992188 250.265625 107.333007812 263.598632812 100 280 c 1
  160 280 l 1
- 160 220 l 1
- 120 180 l 1
- 180 180 l 1
- 140 140 l 1
- 70 140 l 1
- 120 190 l 1
+ 160 230.80078125 l 1
+ 199.6015625 270.3984375 l 1
+ 199.6015625 200.80078125 l 1
+ 160 161.19921875 l 1
+ 160 220.80078125 l 1
+ 120 180.3984375 l 1
  120 240 l 1
 EndSplineSet
 EndChar
@@ -10334,17 +10334,17 @@ AnchorPoint: "Extension_mkmk" 100 20 mark 0
 LayerCount: 2
 Fore
 SplineSet
-120 40 m 1
- 160 40 l 1
- 139 30 133 16 140 0 c 1
- 80 0 l 1
- 80 60 l 1
- 120 100 l 1
- 60 100 l 1
- 100 140 l 1
- 170 140 l 1
- 120 90 l 1
- 120 40 l 1
+120 40 m 5
+ 160 40 l 5
+ 139.333007812 29.734375 132.666992188 16.4013671875 140 0 c 5
+ 80 0 l 5
+ 80 49.19921875 l 5
+ 40.3984375 9.6015625 l 5
+ 40.3984375 79.19921875 l 5
+ 80 118.80078125 l 5
+ 80 59.19921875 l 5
+ 120 99.6015625 l 5
+ 120 40 l 5
 EndSplineSet
 EndChar
 
